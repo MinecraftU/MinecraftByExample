@@ -34,8 +34,8 @@ public class StartupCommon
 //    itemArmorTickTest.setRegistryName("test_item_simple_registry_name");
 //    GameRegistry.register(itemArmorTickTest);
 
-//    block1 = (BlockSimple)(new BlockSimple().setUnlocalizedName("test_block1"));
-//    block2 = (BlockSimple)(new BlockSimple().setUnlocalizedName("test_block2"));
+//    block1 = (BlockDropper)(new BlockDropper().setUnlocalizedName("test_block1"));
+//    block2 = (BlockDropper)(new BlockDropper().setUnlocalizedName("test_block2"));
 //    GameRegistry.registerBlock(block2, "test_block2");
 //    GameRegistry.registerBlock(block1, "test_block1");
 

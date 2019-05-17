@@ -10,6 +10,7 @@ tile.mbe06_block_redstone_variable_source_unlocalised_name.name=MBE06 Redstone V
 tile.mbe06b_block_redstone_target_unlocalised_name.name=MBE06b Redstone Target
 tile.mbe06c_block_redstone_meter_unlocalised_name.name=MBE06c Redstone Signal Meter
 tile.mbe06d_block_redstone_coloured_lamp_unlocalised_name.name=MBE06d Redstone Coloured Lamp
+tile.mbe07_block_dropper_unlocalised_name.name=MBE07 Block Dropper
 tile.mbe08_creative_tab_block_unlocalised_name.name=MBE08 test block
 item.mbe08_creative_tab_item_unlocalised_name.name=MBE08 test item
 itemGroup.mbe08_creative_tab=MBE08 creative tab
