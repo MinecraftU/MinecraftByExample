@@ -66,6 +66,7 @@ public abstract class CommonProxy {
     minecraftbyexample.mbe11_item_variants.StartupCommon.initCommon();
     minecraftbyexample.mbe12_item_nbt_animate.StartupCommon.initCommon();
     minecraftbyexample.mbe13_item_tools.StartupCommon.initCommon();
+    minecraftbyexample.mbe16_item_food.StartupCommon.initCommon();
     minecraftbyexample.mbe17_block_crops.StartupCommon.initCommon();
     minecraftbyexample.mbe20_tileentity_data.StartupCommon.initCommon();
     minecraftbyexample.mbe21_tileentityspecialrenderer.StartupCommon.initCommon();
