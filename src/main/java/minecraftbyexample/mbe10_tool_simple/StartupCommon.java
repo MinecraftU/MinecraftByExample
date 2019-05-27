@@ -4,6 +4,8 @@ import net.minecraftforge.fml.common.registry.ForgeRegistries;
 import net.minecraftforge.fml.common.registry.GameRegistry;
 import net.minecraft.block.material.Material;
 import net.minecraft.item.Item;
+// uncomment to define your own tool material below:
+// import net.minecraftforge.common.util.EnumHelper;
 
 /**
  * User: The Grey Ghost
@@ -36,9 +38,11 @@ public class StartupCommon
     //  |  extinguished_candle  +       candle          |
     //  +-----------------------+-----------------------+
     //
-    final Item.ToolMaterial TOOL_MATERIAL = Item.ToolMaterial.STONE;  // affects durability and digging speed
-                                                                                                  //   in addition to the ToolClass criteria
-    toolSimple = (ToolSimple)(new ToolSimple(TOOL_MATERIAL).setUnlocalizedName("mbe10_tool_simple_unlocalised_name"));
+    final Item.ToolMaterial TOOL_MATERIAL = Item.ToolMaterial.STONE;
+    // to define your own tool material:
+    // final Item.ToolMaterial TOOL_MATERIAL = EnumHelper.addToolMaterial("TOOL_MATERIAL", 3, 1561, 12.0f, 3.0f, 22);
+    toolSimple = (ToolSimple)(new ToolSimple(TOOL_MATERIAL));
+    toolSimple.setUnlocalizedName("mbe10_tool_simple_unlocalised_name");
     toolSimple.setRegistryName("mbe10_tool_simple_registry_name");
     ForgeRegistries.ITEMS.register(toolSimple);
   }

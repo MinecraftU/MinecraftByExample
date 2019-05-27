@@ -16,6 +16,7 @@ item.mbe08_creative_tab_item_unlocalised_name.name=MBE08 test item
 itemGroup.mbe08_creative_tab=MBE08 creative tab
 itemGroup.mbe08_creative_tab_all_MBE=All MBE items and blocks
 item.mbe10_item_simple_unlocalised_name.name=MBE10 Item Simple
+item.mbe10_tool_simple_unlocalised_name.name=MBE10 Tool Simple
 item.mbe11_item_variants_unlocalised_name.orange.name=MBE11 Item Variants orange
 item.mbe11_item_variants_unlocalised_name.lemon.name=MBE11 Item Variants lemon
 item.mbe11_item_variants_unlocalised_name.lime.name=MBE11 Item Variants lime
