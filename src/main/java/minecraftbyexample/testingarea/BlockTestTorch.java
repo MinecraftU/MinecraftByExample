@@ -11,7 +11,7 @@
 // * User: The Grey Ghost
 // * Date: 24/12/2014
 // *
-// * BlockDropper is a ordinary solid cube with the six faces numbered from 0 - 5.
+// * BlockSimple is a ordinary solid cube with the six faces numbered from 0 - 5.
 // * For background information on blocks see here http://greyminecraftcoder.blogspot.com.au/2014/12/blocks-18.html
 // */
 //public class BlockTestTorch extends Block

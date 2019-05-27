@@ -110,6 +110,7 @@ public class ClientOnlyProxy extends CommonProxy
     minecraftbyexample.mbe11_item_variants.StartupClientOnly.postInitClientOnly();
     minecraftbyexample.mbe12_item_nbt_animate.StartupClientOnly.postInitClientOnly();
     minecraftbyexample.mbe13_item_tools.StartupClientOnly.postInitClientOnly();
+    minecraftbyexample.mbe15_item_dynamic_item_model.StartupClientOnly.postInitClientOnly();
     minecraftbyexample.mbe16_item_food.StartupClientOnly.postInitClientOnly();
     minecraftbyexample.mbe17_block_crops.StartupClientOnly.postInitClientOnly();
     minecraftbyexample.mbe20_tileentity_data.StartupClientOnly.postInitClientOnly();
